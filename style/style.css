@@ -152,7 +152,7 @@ span{
     margin-left:250px;
 }
 .social-section{
-    margin:150px 100px;   
+    margin: 100px 150px;
 
 }
 .sale-title{
@@ -167,4 +167,37 @@ font-weight: 700;
 }
 .image-container{
     display: flex;
+}
+/* details started here */
+.details{
+    
+    padding: 100px;
+    width: 79%;
+    margin-left: 48px;
+    
+}
+.details-container{
+    
+    border-radius: 8px;
+background: url('../Flower Asset/Rectangle 9.png'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+background-position: center;
+background-size: 100%;
+}
+#ema{
+    width:500px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+height: 64px;
+
+border-radius: 8px;
+background-color: #FFF;
+text-align: center;
+color: rgba(39, 39, 39, 0.60);
+font-size: 16px;
+font-weight: 400;
+
+border: none;
+margin-bottom: 100px;
+
+
 }
