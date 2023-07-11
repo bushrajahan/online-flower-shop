@@ -175,6 +175,13 @@ font-weight: 700;
     width: 79%;
     margin-left: 48px;
     
+    
+}
+.op{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 .details-container{
     
@@ -185,8 +192,7 @@ background-size: 100%;
 }
 #ema{
     width:500px;
-    margin-left: 200px;
-    margin-bottom: 20px;
+    
 height: 64px;
 
 border-radius: 8px;
@@ -195,11 +201,15 @@ text-align: center;
 color: rgba(39, 39, 39, 0.60);
 font-size: 16px;
 font-weight: 400;
-
-border: none;
 margin-bottom: 100px;
+border: none;
 
 
+
+}
+.details-btn{
+    margin-left: 10px;
+    margin-bottom: 105px;
 }
 /* footer start here */
 .footer-section{
