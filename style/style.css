@@ -201,3 +201,44 @@ margin-bottom: 100px;
 
 
 }
+/* footer start here */
+.footer-section{
+    padding-top: 128px;
+    text-align: center;
+    background-color:  #111010;
+    height: 400px;
+}
+.copy{
+    color: rgba(255, 255, 255, 0.40);
+font-size: 16px;
+font-weight: 400;
+
+}
+.footer{
+    color: rgba(255, 255, 255, 0.90);
+}
+/* order Now */
+input{
+    
+padding: 15px;
+margin-bottom: 10px; 
+width: 400px;
+border-radius: 8px;
+background-color: #FFF;
+text-align: center;
+color: rgba(39, 39, 39, 0.60);
+font-size: 16px;
+font-weight: 400;
+display: block;
+border: 1px solid black;
+
+}
+.order-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+i{
+    color: gold;
+}
